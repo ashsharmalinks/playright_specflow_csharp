@@ -3,4 +3,5 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::5DE4B44E-060B-4A33-8E01-98DD917ABC10::net6.0::SpecFlowProject_Playwright_Ash_NUnitAssemblyHooks&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
